@@ -1,0 +1,22 @@
+{
+    "id": "200201181",
+    "accountType": "TRADITIONAL_IRA",
+    "dateOpened": "2012-02-15",
+    "projectedCloseDate": null,
+    "managerCode": "01",
+    "accountCategoryCode": "12",
+    "assetValue": 153637.73,
+    "cashBalance": 6.65,
+    "availableCash": 6.65,
+    "totalAccountValue": 153644.38,
+    "contributionsYTD": 0,
+    "distributionsYTD": 100100,
+    "cashOnHold": 50,
+    "adminOfficer": {
+        "id": "165171",
+        "adminOfficerName": "Gold Level Service Team"
+    },
+    "feeModelNumber": 999,
+    "retail": true,
+    "keyAccount": false
+}
